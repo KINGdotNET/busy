@@ -4,11 +4,11 @@
 [![Busy channel on Discord](https://img.shields.io/badge/chat-discord-738bd7.svg)](https://discord.gg/G95rNZs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-# Busy 🚀
+# Yehey.APP 🚀
 
-Busy is an Open Source social network and communications platform which extends itself to a variety of rich features and functionality including free digital payments and a marketplace for goods and services.
+Yehey.APP is an Open Source social network and communications platform which extends itself to a variety of rich features and functionality including free digital payments and a marketplace for goods and services.
 
-For more info: https://busy.org/@busy.org
+For more info: https://Yehey.APP/@yehey
 
 ## Preview
 
