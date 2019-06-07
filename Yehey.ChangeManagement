@@ -14,3 +14,6 @@ SIGNUP_URL=https://signup.steemit.com/?ref=yehey
 Path: https://github.com/KINGdotNET/yehey/blob/master/.env.example
 
 Copy the file to .env file name.
+
+Updated hostname from busy.org to yehey-app.herokuapp.com
+https://github.com/KINGdotNET/yehey/blob/master/src/server/handlers/createSsrHandler.js
