@@ -5,4 +5,11 @@ DATE & Time: Descriptions
 Path:
 ++++++++++++++++++++++++++++++++++++++++
 
+20190607 1130: Updated callback path.
+STEEMCONNECT_CLIENT_ID=branding
+STEEMCONNECT_REDIRECT_URL=https://yehey-app.herokuapp.com//callback
+STEEMJS_URL=https://api.steemit.com
+SIGNUP_URL=https://signup.steemit.com/?ref=yehey
+
+Path: https://github.com/KINGdotNET/yehey/blob/master/.env.example
 
