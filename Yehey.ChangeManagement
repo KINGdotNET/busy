@@ -13,3 +13,4 @@ SIGNUP_URL=https://signup.steemit.com/?ref=yehey
 
 Path: https://github.com/KINGdotNET/yehey/blob/master/.env.example
 
+Copy the file to .env file name.
