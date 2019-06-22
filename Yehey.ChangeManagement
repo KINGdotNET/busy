@@ -5,6 +5,16 @@ DATE & Time: Descriptions
 Path:
 ++++++++++++++++++++++++++++++++++++++++
 
+20190622 0936.
+Review setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
+process.env.STEEMCONNECT_REDIRECT_URL || 'https://dev.steeming.com/callback',
+
+20190614 0320.
+Review setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
+process.env.STEEMCONNECT_CLIENT_ID || 'branding',
+process.env.STEEMCONNECT_REDIRECT_URL || 'https://yehey-app.herokuapp.com/callback',
+process.env.SIGNUP_URL || 'https://signup.steemit.com/?ref=yehey',
+
 20190607 1130: Updated callback path.
 STEEMCONNECT_CLIENT_ID=branding
 STEEMCONNECT_REDIRECT_URL=https://yehey-app.herokuapp.com//callback
