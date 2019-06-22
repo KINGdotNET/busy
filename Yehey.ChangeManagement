@@ -6,11 +6,17 @@ Path:
 ++++++++++++++++++++++++++++++++++++++++
 
 20190622 0936.
-Updated setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
+Updated setting 
+https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
 process.env.STEEMCONNECT_REDIRECT_URL || 'https://dev.steeming.com/callback',
 
-Updated.
-https://github.com/KINGdotNET/yehey/blob/master/src/server/handlers/createSsrHandler.js
+Go to SteemConnect.com, login as @branding (use for development). @steeming.app dedicated for production. 
+To edit/update for secure authentication and redirect.
+For example.
+https://dev.steeming.com/callback
+https://dev.steeming.com
+
+Updated. https://github.com/KINGdotNET/yehey/blob/master/src/server/handlers/createSsrHandler.js
 
 20190614 0320.
 Review setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
@@ -20,7 +26,7 @@ process.env.SIGNUP_URL || 'https://signup.steemit.com/?ref=yehey',
 
 20190607 1130: Updated callback path.
 STEEMCONNECT_CLIENT_ID=branding
-STEEMCONNECT_REDIRECT_URL=https://yehey-app.herokuapp.com//callback
+STEEMCONNECT_REDIRECT_URL=https://yehey-app.herokuapp.com/callback
 STEEMJS_URL=https://api.steemit.com
 SIGNUP_URL=https://signup.steemit.com/?ref=yehey
 
