@@ -6,8 +6,11 @@ Path:
 ++++++++++++++++++++++++++++++++++++++++
 
 20190622 0936.
-Review setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
+Updated setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
 process.env.STEEMCONNECT_REDIRECT_URL || 'https://dev.steeming.com/callback',
+
+Updated.
+https://github.com/KINGdotNET/yehey/blob/master/src/server/handlers/createSsrHandler.js
 
 20190614 0320.
 Review setting https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
