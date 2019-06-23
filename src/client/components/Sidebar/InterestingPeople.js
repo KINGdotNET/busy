@@ -19,7 +19,7 @@ const InterestingPeople = ({ users, onRefresh }) => (
       {users && users.map(user => <User key={user.name} user={user} />)}
       <h4 className="InterestingPeople__more">
         <Link to={'/discover'}>
-          <FormattedMessage id="discover_more_people" defaultMessage="Discover More People" />
+          <FormattedMessage id="discover_more_people" defaultMessage="Discover More People ex. @Yehey" />
         </Link>
       </h4>
     </div>
