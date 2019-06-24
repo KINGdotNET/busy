@@ -4,6 +4,15 @@ Format:
 DATE & Time: Descriptions
 Path:
 ++++++++++++++++++++++++++++++++++++++++
+20190623 1008.
+
+Change the logo?
+
+https://github.com/KINGdotNET/yehey/blob/master/src/client/locales/default.json (Note. This is ok)
+Updated - Discover More People. @Yehey
+
+https://github.com/KINGdotNET/yehey/blob/master/src/client/components/Sidebar/InterestingPeople.js (Note: This seems not to work).
+Updated - Discover More People. @Yehey
 
 20190622 0936.
 Updated setting 
