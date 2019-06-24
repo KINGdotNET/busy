@@ -6,7 +6,9 @@ Path:
 ++++++++++++++++++++++++++++++++++++++++
 20190623 1008.
 
-Change the logo?
+Change the logo? to Steeming.com (Note. Wait to complete update, it's a cloud base so sync needs to happen)
+https://github.com/KINGdotNET/yehey/blob/master/src/client/components/Navigation/Topnav.js
+
 
 https://github.com/KINGdotNET/yehey/blob/master/src/client/locales/default.json (Note. This is ok)
 Updated - Discover More People. @Yehey
