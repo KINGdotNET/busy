@@ -4,6 +4,10 @@ Format:
 DATE & Time: Descriptions
 Path:
 ++++++++++++++++++++++++++++++++++++++++
+20191229 0532
+Edited https://github.com/KINGdotNET/yehey/blob/master/src/client/settings/ProfileSettings.js
+to change Title from Busy to Steeming.
+
 20190831 0329
 Edited https://github.com/KINGdotNET/yehey/blob/master/public/index.html
 and https://github.com/KINGdotNET/yehey/blob/master/public/manifest.json
