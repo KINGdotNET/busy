@@ -4,6 +4,22 @@ Format:
 DATE & Time: Descriptions
 Path:
 ++++++++++++++++++++++++++++++++++++++++
+
+20200101 2243.
+Change setting using steeming.app account.
+https://github.com/KINGdotNET/yehey/blob/master/webpack/configUtils.js
+
+process.env.STEEMCONNECT_CLIENT_ID || 'branding', --> change to steeming.app
+process.env.STEEMCONNECT_REDIRECT_URL || 'https://dev.steeming.com/callback'
+process.env.SIGNUP_URL || 'https://signup.steemit.com/?ref=yehey',
+
+STEEMCONNECT_CLIENT_ID=branding --> change to steeming.app
+STEEMCONNECT_REDIRECT_URL=https://yehey-app.herokuapp.com/callback
+STEEMJS_URL=https://api.steemit.com
+SIGNUP_URL=https://signup.steemit.com/?ref=yehey
+
+Path: https://github.com/KINGdotNET/yehey/blob/master/.env.example
+
 20191229 0532 - (Note. It did not upate the favicon)
 Edited https://github.com/KINGdotNET/yehey/blob/master/src/client/settings/ProfileSettings.js
 to change Title from Busy to Steeming.
